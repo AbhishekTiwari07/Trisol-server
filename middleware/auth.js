@@ -1,4 +1,4 @@
-const jwt = require('json-web-token');
+const jwt = require('jsonwebtoken');
 const Patient = require('../model/patient');
 
 
